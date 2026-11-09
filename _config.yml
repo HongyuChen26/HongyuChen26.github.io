@@ -10,7 +10,7 @@
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 
-title                    : "Hongyu Chen （陈鸿钰）"
+title                    : "Hongyu Chen（陈鸿钰）"
 title_separator          : "-"
 name                     : &name "Hongyu Chen"
 description              : &description "Hongyu Chen's Academic Homepage"
@@ -24,7 +24,7 @@ repository               : "HongyuChen26/HongyuChen26.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Hongyu Chen （陈鸿钰）"
+  name             : "Hongyu Chen（陈鸿钰）"
   bio              : "Ph.D. Candidate in Mathematics"
   location         : "Harbin, China"
   employer         : "Harbin Institute of Technology"

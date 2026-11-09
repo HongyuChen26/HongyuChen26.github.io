@@ -12,3 +12,17 @@ I am a Ph.D. in Mathematics at the [School of Mathematics](https://math.hit.edu.
 My research interests lie in differential equations and dynamical systems, particularly bifurcation theory and spatiotemporal pattern formation in reaction-diffusion systems. I focus on the effects of diffusion, time delay, advection, domain geometry, and spatial symmetry on stability and bifurcation phenomena. I am also interested in the existence, uniqueness, and stability of positive coexistence steady states in competitive reaction-diffusion systems. To date, I have published five first-author SCI-indexed journal articles, with research appearing in journals such as *International Journal of Bifurcation and Chaos*, *Discrete and Continuous Dynamical Systems - Series B*, *Nonlinear Analysis: Modelling and Control*, *Journal of Applied Analysis and Computation*, and *International Journal of Biomathematics*.
 
 I welcome research collaborations and academic exchanges. If you are interested in my research, please feel free to contact me at [chenhongyu19982021@163.com](mailto:chenhongyu19982021@163.com).
+
+## Publications
+
+I have published **five first-author SCI-indexed journal articles**. Please see my [Representative Publications](/publications/) page for the publication list and links to the papers.
+
+## Conference Presentations:
+
+- [2025.05] The 15th International Conference on Recent Advances in Applied Dynamical Systems, Xiamen, China — Oral Presentation (30 min).
+
+- [2022.08] The 5th Northeast China Conference on Mathematical Biology, Online — Oral Presentation (20 min).
+
+## Journal Reviewer:
+
+- International Journal of Biomathematics

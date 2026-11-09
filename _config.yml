@@ -10,13 +10,13 @@
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 
-title : "Hongyu Chen"
-title_separator : "-"
-name : &name "Hongyu Chen"
-description : &description "Hongyu Chen's Academic Homepage"
-url : https://hongyuchen26.github.io
-baseurl : ""
-repository : "HongyuChen26/HongyuChen26.github.io"
+title                    : "Hongyu Chen"
+title_separator          : "-"
+name                     : &name "Hongyu Chen"
+description              : &description "Hongyu Chen's Academic Homepage"
+url                      : https://hongyuchen26.github.io
+baseurl                  : ""
+repository               : "HongyuChen26/HongyuChen26.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,13 +24,12 @@ repository : "HongyuChen26/HongyuChen26.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Hongyu Chen"
+  bio              : "Ph.D. in Mathematics"
+  location         : "China"
+  employer         : "Harbin Institute of Technology"
+  email            : "chenhongyu19982021@163.com" 
+  github           : "HongyuChen26"
 
   # Academic websites
   academia         : # URL
@@ -38,7 +37,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-1469-0968"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

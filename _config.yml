@@ -23,7 +23,7 @@ repository               : "HongyuChen26/HongyuChen26.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "HongyuChen.jpg"
   name             : "Hongyu Chen（陈鸿钰）"
   bio              : "Ph.D. Candidate in Mathematics"
   location         : "Harbin, China"
